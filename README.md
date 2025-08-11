@@ -17,6 +17,7 @@
 - 🇺🇸 [MM Amerikan Club](https://www.mmamerikanclub.com)
 - 👗 [Jannat Apparels](https://jannatapparels.com)
 - 🌾 [Golden Grains](https://golden-grains.com)
+- 🌾 [Valley Agro]([https://valley-agro.com/])
 - 🕌 [IFANCC](https://www.ifancc.org)
 - 💄 [Bouga Cosmetics](https://bougainvilleacosmetics.com)
 - 🐶 [Pet Care Supplies](https://petcaresupplies.store)
@@ -33,4 +34,4 @@
 
 ---
 
-💡 *More projects will be added as they go live!*
+
