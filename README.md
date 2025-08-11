@@ -18,7 +18,7 @@
 - 👗 [Jannat Apparels](https://jannatapparels.com)
 - 👗 [Roohi By Rushma](https://roohiofficial.online/)
 - 🌾 [Golden Grains](https://golden-grains.com)
-- 🌾 [Valley Agro]([https://valley-agro.com/])
+- 🌾 [Valley Agro](https://valley-agro.com/)
 - 🕌 [IFANCC](https://www.ifancc.org)
 - 💄 [Bouga Cosmetics](https://bougainvilleacosmetics.com)
 - 🐶 [Pet Care Supplies](https://petcaresupplies.store)
