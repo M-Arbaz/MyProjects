@@ -10,8 +10,8 @@
 - 🛕 [Sikh Pilgrim](https://sikhpilgrim.com)
 - 🎓 [Cross Borders Consultancy (CBC)](https://crossbordersconsultancy.co.uk)
 - 👨‍👩‍👧 [Thriving Families WA](https://thriving.hueouts.com/) *(Original domain expired)*
-- 🐾 Alex Pet Behaviour *(coming soon)*
-- 🐾 Alex Pet Consultation *(coming soon)*
+- 🐾 Alex Pet Behaviour *(domain expired)*
+- 🐾 Alex Pet Consultation *(domain expired)*
 - 🧵 [DR Stitchess](https://drstitchess.com)
 - 🛍️ [DR Stitchess Order Portal](https://dr.stitchess.order.portal.hueouts.com/se) *(Express.js App with Shopify)*
 - 🇺🇸 [MM Amerikan Club](https://www.mmamerikanclub.com)
