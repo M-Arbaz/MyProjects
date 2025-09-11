@@ -50,6 +50,7 @@
 - 💆‍♀️ [Skinology](https://skinologypk.com)
 - 🛍️ [Nadas Store](https://nadasstore.com)
 - 📢 [S1 Marketing](https://s1marketing.co.uk)
+- 🧥 [FOG Esssentials Hoodies](https://fogessentialshoodie.co.uk/)
 
 
 
